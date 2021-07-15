@@ -1,7 +1,3 @@
-🧠️🤖️
-🐍️🤓️
-
-
 Estudo sobre captura de movimento corporal.
 
 Rede Neural Convolucional (CNN) - VGGNet
