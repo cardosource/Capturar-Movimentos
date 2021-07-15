@@ -8,13 +8,7 @@ Rede Neural Convolucional (CNN) - VGGNet
 
 Algoritimo de localização de pontos chaves, modelo CAFFE.
 
-libs:
-
-
-matplotlib
-
-
-
+![](https://img.shields.io/badge/matplotlib-3.4.2-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/numpy-1.21.0-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/opencv-4.5.2.54-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/python-3.9-informational?style=flat&logo=python&logoColor=white&color=blue)  ![GitHub](https://img.shields.io/badge/licence-GPL%203%200-GREE) 
